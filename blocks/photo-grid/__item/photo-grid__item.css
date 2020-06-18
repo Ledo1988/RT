@@ -1,0 +1,8 @@
+.photo-grid__item {
+    line-height: 0;
+    margin: 0 0 8px;
+}
+
+.photo-grid__item:last-of-type {
+    margin-bottom: 0;
+}

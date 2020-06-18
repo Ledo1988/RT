@@ -18,6 +18,9 @@
 @import "blocks/intro/__title/intro__title.css";
 @import "blocks/intro/__main-text/intro__main-text.css";
 @import "blocks/intro/__list/intro__list.css";
-@import "blocks/intro/__list-item-text/intro__item-text.css";
-@import "blocks/intro/__list-item-number/intro__item-number.css";
-@import "blocks/intro/__list-item/intro__item.css";
+@import "blocks/intro/__list-item-text/intro__list-item-text.css";
+@import "blocks/intro/__list-item-number/intro__list-item-number.css";
+@import "blocks/intro/__list-item/intro__list-item.css";
+@import "blocks/photo-grid/photo-grid.css";
+@import "blocks/photo-grid/__item/photo-grid__item.css";
+@import "blocks/photo-grid/__img/photo-grid__img.css";
