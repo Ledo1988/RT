@@ -2,6 +2,7 @@
 @import "fonts.css";
 @import "blocks/page/page.css";
 @import "blocks/container/container.css";
+@import "blocks/container/_bottom-small/container_bottom_small.css";
 @import "blocks/container/_bottom-medium/container_bottom_medium.css";
 @import "blocks/container/_bottom_large/container_bottom_large.css";
 @import "blocks/header/header.css";
@@ -27,3 +28,18 @@
 @import "blocks/video-item/__img/video-item__img.css";
 @import "blocks/video-item/__title/video-item__title.css";
 @import "blocks/video-item/__time/video-item__time.css";
+@import "blocks/comments/comments.css";
+@import "blocks/comments/__title/comments__title.css";
+@import "blocks/comments/__subtitle/comments__subtitle.css";
+@import "blocks/comment/comment.css";
+@import "blocks/comment/__title/comment__title.css";
+@import "blocks/comment/__img/comment__img.css";
+@import "blocks/comment/__img/-wrapper/comment__img-wrapper.css";
+@import "blocks/comment/__blockquote/comment__blockquote.css";
+@import "blocks/footer/footer.css";
+@import "blocks/footer/__copyright/footer__copyright.css";
+@import "blocks/footer/__nav/footer__nav.css";
+@import "blocks/footer/__nav-item/footer__nav-item.css";
+@import "blocks/footer/__nav-link/footer__nav-link.css";
+@import "blocks/footer/__nav-list/footer__nav-list.css";
+@import "blocks/footer/__copyright/footer__copyright.css";
