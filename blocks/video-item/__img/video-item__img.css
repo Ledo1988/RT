@@ -1,0 +1,6 @@
+.video-item__img {
+   width: auto;
+    height: 192px;
+    border-radius: 5px;
+    z-index: 1;
+}

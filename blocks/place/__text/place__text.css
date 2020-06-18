@@ -1,0 +1,8 @@
+.place__text {
+    line-height: 169.43%;
+    margin: 0 0 24px;
+}
+
+.place__text:last-of-type {
+    margin-bottom: 0;
+}

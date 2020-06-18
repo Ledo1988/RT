@@ -1,0 +1,15 @@
+.video-item {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    line-height: 0;
+    margin-bottom: 8px;
+    border-radius: 5px;
+    overflow: hidden;
+    color: #ffffff;
+}
+
+
+.video-item:hover .video-item__description {
+    background-color: rgba(0,0,0,0.6);
+}
