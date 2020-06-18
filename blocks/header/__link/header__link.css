@@ -1,0 +1,8 @@
+.header__link {
+    display: inline-block;
+    font-size: 18px;
+    color: #ffffff;
+    line-height: 17px;
+    text-decoration: none;
+    margin-left: 16px;
+}
