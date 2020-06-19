@@ -6,6 +6,7 @@
 @import "blocks/container/_bottom-medium/container_bottom_medium.css";
 @import "blocks/container/_bottom_large/container_bottom_large.css";
 @import "blocks/header/header.css";
+@import "blocks/header/__logo-link/header__logo-link.css";
 @import "blocks/header/__logo/header__logo.css";
 @import "blocks/header/__languages/header__languages.css";
 @import "blocks/header/__link/header__link.css";
@@ -26,6 +27,7 @@
 @import "blocks/video/__subtitle/video__subtitle.css";
 @import "blocks/video/__title/video__title.css";
 @import "blocks/video-item/video-item.css";
+@import "blocks/video-item/__link/video-item__link.css";
 @import "blocks/video-item/__description/video-item__description.css";
 @import "blocks/video-item/__author/video-item__author.css";
 @import "blocks/video-item/__img/video-item__img.css";

@@ -5,6 +5,11 @@
     line-height: 17px;
     text-decoration: none;
     margin-left: 16px;
+    transition: .2s ease-in-out;
+}
+
+.header__link:hover {
+ color: #AAAAAA;
 }
 
 @media (min-width: 768px) {

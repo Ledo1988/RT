@@ -7,4 +7,9 @@
     letter-spacing: normal;
     text-transform: none;
     color: #FFFFFF;
+    transition: .2s ease-in-out;
+}
+
+.place__web-link:hover {
+    color: #aaaaaa;
 }

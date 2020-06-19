@@ -4,9 +4,7 @@
     justify-content: center;
     line-height: 0;
     margin-bottom: 8px;
-    border-radius: 5px;
-    overflow: hidden;
-    color: #ffffff;
+
 }
 
 .video-item:last-of-type {
