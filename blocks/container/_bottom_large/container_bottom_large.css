@@ -1,3 +1,9 @@
 .container_bottom_large {
     margin-bottom: 64px;
 }
+
+@media (min-width: 768px) {
+    .container_bottom_large {
+        margin-bottom: 102px;
+    }
+}

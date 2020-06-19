@@ -1,0 +1,10 @@
+.place__web-link {
+    display: block;
+    padding-top: 16px;
+    font-size: 18px;
+    line-height: 1;
+    text-decoration-line: underline;
+    letter-spacing: normal;
+    text-transform: none;
+    color: #FFFFFF;
+}

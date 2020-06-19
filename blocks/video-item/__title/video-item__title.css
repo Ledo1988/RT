@@ -4,3 +4,9 @@
     line-height: 26px;
     margin: 0 0 2px;
 }
+
+@media (min-width: 768px) {
+    .video-item__title {
+        margin-bottom: 12px;
+    }
+}

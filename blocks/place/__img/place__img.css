@@ -8,3 +8,16 @@
     width: 100vw;
     margin-bottom: 24px;
 }
+
+@media (min-width: 768px) {
+    .place__img {
+        left: auto;
+        margin-left: 0;
+        margin-right: 0;
+        max-width: 100%;
+        position: relative;
+        right: auto;
+        width: auto;
+        margin-bottom: 0;
+    }
+}

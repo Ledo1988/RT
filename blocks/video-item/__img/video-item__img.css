@@ -1,6 +1,12 @@
 .video-item__img {
    width: auto;
-    height: 192px;
+    max-height: 192px;
     border-radius: 5px;
     z-index: 1;
+}
+
+@media (min-width: 375px) {
+    .video-item__img {
+        max-height: 200px;
+    }
 }

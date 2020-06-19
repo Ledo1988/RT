@@ -9,7 +9,16 @@
     color: #ffffff;
 }
 
+.video-item:last-of-type {
+    margin-bottom: 0;
+}
 
 .video-item:hover .video-item__description {
     background-color: rgba(0,0,0,0.6);
+}
+
+@media (min-width: 768px) {
+    .video-item {
+        margin-bottom: 0;
+    }
 }

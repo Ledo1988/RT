@@ -25,3 +25,9 @@
     background-repeat: no-repeat;
     flex-grow: 1;
 }
+
+@media (min-width: 375px) {
+    .video-item__description {
+        padding: 24px;
+    }
+}

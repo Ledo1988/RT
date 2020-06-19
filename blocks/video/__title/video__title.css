@@ -5,3 +5,11 @@
     text-align: center;
     margin: 0 0 16px;
 }
+
+@media (min-width: 768px) {
+    .video__title {
+        font-size: 42px;
+        line-height: 46px;
+        margin-bottom: 24px;
+    }
+}
