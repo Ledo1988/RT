@@ -10,3 +10,10 @@
         max-height: 200px;
     }
 }
+
+@media (min-width: 1024px) {
+    .video-item__img {
+        max-height: 456px;
+    }
+}
+

@@ -4,3 +4,9 @@
     color: #fff;
     background-color: #2A2C2F;
 }
+
+@media (min-width: 1024px) {
+    .page {
+        font-size: 18px;
+    }
+}

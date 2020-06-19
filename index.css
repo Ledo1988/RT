@@ -34,6 +34,7 @@
 @import "blocks/comments/comments.css";
 @import "blocks/comments/__title/comments__title.css";
 @import "blocks/comments/__subtitle/comments__subtitle.css";
+@import "blocks/comments/__items/comments__items.css";
 @import "blocks/comment/comment.css";
 @import "blocks/comment/__title/comment__title.css";
 @import "blocks/comment/__img/comment__img.css";

@@ -31,3 +31,9 @@
         padding: 24px;
     }
 }
+
+@media (min-width: 375px) {
+    .video-item__description {
+        padding: 30px 30px 35px;
+    }
+}

@@ -3,3 +3,10 @@
     text-align: center;
     margin-bottom: 16px;
 }
+
+@media (min-width: 1024px) {
+    .comment__img-wrapper {
+        margin-bottom: 40px;
+        order: 1;
+    }
+}

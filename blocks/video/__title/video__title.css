@@ -13,3 +13,11 @@
         margin-bottom: 24px;
     }
 }
+
+@media (min-width: 1024px) {
+    .video__title {
+        font-size: 72px;
+        line-height: 78px;
+        margin-bottom: 48px;
+    }
+}
