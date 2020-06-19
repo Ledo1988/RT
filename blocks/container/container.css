@@ -16,3 +16,11 @@
     }
 
 }
+
+@media (min-width: 1280px) {
+    .container {
+        padding: 0;
+        max-width: 1184px;
+        margin: 0 auto;
+    }
+}

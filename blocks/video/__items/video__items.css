@@ -6,3 +6,8 @@
         grid-gap: 16px;
     }
 }
+@media (min-width: 1280px) {
+    .video__items {
+        grid-gap: 18px;
+    }
+}

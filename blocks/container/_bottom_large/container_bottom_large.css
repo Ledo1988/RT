@@ -7,3 +7,9 @@
         margin-bottom: 102px;
     }
 }
+
+@media (min-width: 1280px) {
+    .container_bottom_large {
+        margin-bottom: 92px;
+    }
+}

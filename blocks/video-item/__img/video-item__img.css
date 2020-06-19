@@ -17,3 +17,8 @@
     }
 }
 
+@media (min-width: 1280px) {
+    .video-item__img {
+        max-height: 323px;
+    }
+}

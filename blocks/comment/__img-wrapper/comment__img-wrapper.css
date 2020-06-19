@@ -10,3 +10,9 @@
         order: 1;
     }
 }
+
+@media (min-width: 1280px) {
+    .comment__img-wrapper {
+        margin-bottom: 42px;
+    }
+}

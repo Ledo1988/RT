@@ -10,3 +10,9 @@
         order: 2;
     }
 }
+
+@media (min-width: 1280px) {
+    .comment__blockquote {
+        margin-bottom: 24px;
+    }
+}

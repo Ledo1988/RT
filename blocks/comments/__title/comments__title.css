@@ -21,3 +21,17 @@
         margin-bottom: 48px;
     }
 }
+
+@media (min-width: 1280px) {
+    .comments__title {
+        line-height: 108.9%;
+    }
+}
+
+@media (min-width: 1440px) {
+    .comments__title {
+        max-width: 840px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}

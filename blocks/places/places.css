@@ -1,0 +1,7 @@
+@media (min-width: 1280px) {
+    .places {
+        max-width: 984px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}

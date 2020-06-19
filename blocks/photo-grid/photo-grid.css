@@ -9,9 +9,16 @@
 
 @media (min-width: 1024px) {
     .photo-grid {
-        display: grid;
         grid-template-columns: repeat(3, 4fr);
         grid-template-rows: repeat(4, 2fr);
         grid-gap: 14px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .photo-grid {
+        grid-template-columns: repeat(4, 3fr);
+        grid-template-rows: repeat(3, 4fr);
+        grid-gap: 16px;
     }
 }
