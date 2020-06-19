@@ -2,7 +2,7 @@
 @import "fonts.css";
 @import "blocks/page/page.css";
 @import "blocks/container/container.css";
-@import "blocks/container/_fluid/container__fluid.css";
+@import "blocks/container/_fluid/container_fluid.css";
 @import "blocks/container/_bottom-small/container_bottom_small.css";
 @import "blocks/container/_bottom-medium/container_bottom_medium.css";
 @import "blocks/container/_bottom_large/container_bottom_large.css";
