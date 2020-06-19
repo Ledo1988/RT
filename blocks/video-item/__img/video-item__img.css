@@ -1,6 +1,6 @@
 .video-item__img {
    width: auto;
-    max-height: 192px;
+    min-height: 192px;
     max-width: 100%;
     border-radius: 5px;
     z-index: 1;
@@ -8,18 +8,18 @@
 
 @media (min-width: 375px) {
     .video-item__img {
-        max-height: 200px;
+        min-height: 200px;
     }
 }
 
 @media (min-width: 1024px) {
     .video-item__img {
-        max-height: 456px;
+        min-height: 288px;
     }
 }
 
 @media (min-width: 1280px) {
     .video-item__img {
-        max-height: 323px;
+        min-height: 323px;
     }
 }

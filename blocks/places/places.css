@@ -1,3 +1,7 @@
+.places {
+    overflow: hidden;
+}
+
 @media (min-width: 1280px) {
     .places {
         max-width: 984px;

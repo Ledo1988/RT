@@ -3,6 +3,7 @@
     font-size: 32px;
     line-height: 35px;
     margin: 0 0 32px;
+    padding: 0 16px;
 }
 
 @media (min-width: 768px) {
@@ -11,6 +12,7 @@
         line-height: 1;
         margin: 0;
         align-self: end;
+        padding: 0;
     }
 }
 
